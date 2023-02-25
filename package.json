@@ -1,0 +1,24 @@
+{
+  "name": "cli-weather-app",
+  "version": "1.0.0",
+  "description": "Fast weather info in CLI",
+  "main": "app.js",
+  "bin": "./app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "engines": {
+    "node": ">14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turbolet85/CLI-weather-app.git"
+  },
+  "keywords": ["weather", "cli"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turbolet85/CLI-weather-app/issues"
+  },
+  "homepage": "https://github.com/Turbolet85/CLI-weather-app#readme"
+}
