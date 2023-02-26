@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Fast weather info in CLI",
   "main": "app.js",
-  "bin": "./app.js",
+  "bin": {
+    "weather": "app.js"
+  },
+  "type": "module",
   "scripts": {
     "start": "app.js"
   },
