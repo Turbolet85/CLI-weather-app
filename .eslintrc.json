@@ -11,6 +11,8 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
+  "plugins": [
+  ],
   "rules": {
     "indent": [
       "error",
